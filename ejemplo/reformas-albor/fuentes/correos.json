@@ -1,0 +1,104 @@
+{
+  "_aviso": "EJEMPLO FICTICIO. Correos inventados para probar el prompt. El buzón es de Pablo Albor (pablo@reformasalbor.ejemplo.test).",
+  "buzon": "pablo@reformasalbor.ejemplo.test",
+  "correos": [
+    {
+      "fecha": "2026-09-22",
+      "de": "proveedor@azulejos.ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "Tarifa 2026",
+      "cuerpo": "Hola Pablo, te paso la tarifa de azulejos de 2026. Un saludo, Azulejos Levante."
+    },
+    {
+      "fecha": "2026-10-10",
+      "de": "pablo@reformasalbor.ejemplo.test",
+      "para": "marta.rius@ejemplo.test",
+      "asunto": "Presupuesto reforma baño y cocina",
+      "cuerpo": "Hola Marta:\n\nTe confirmo lo que hablamos: baño completo y cocina por 18.400 € IVA incluido, empezamos el 20/10 y terminamos en 6 semanas. Te mando el contrato para firmar.\n\nCualquier cosa me dices.\n\nUn abrazo,\nPablo"
+    },
+    {
+      "fecha": "2026-10-11",
+      "de": "marta.rius@ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "RE: Presupuesto reforma baño y cocina",
+      "cuerpo": "Perfecto, Pablo. Firmado. Te paso mis datos para la factura: DNI 12345678Z, cuenta ES91 2100 0418 4502 0005 1332. Mi móvil por si acaso es 612 345 678. Prefiero que me escribas por correo, por WhatsApp no me entero. Marta"
+    },
+    {
+      "fecha": "2026-10-14",
+      "de": "pablo@reformasalbor.ejemplo.test",
+      "para": "lucia@reformasalbor.ejemplo.test",
+      "asunto": "Organización obras",
+      "cuerpo": "Lucía:\n\nA partir de ahora tú llevas los pedidos a proveedores y el calendario de las cuadrillas. Yo me quedo con presupuestos y clientes. Toni es el jefe de obra en lo de Marta y en la Nube.\n\nUn abrazo,\nPablo"
+    },
+    {
+      "fecha": "2026-10-16",
+      "de": "ivan@cafenube.ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "Local Nube - cambios",
+      "cuerpo": "Pablo, al final queremos la barra en madera clara en vez de microcemento. Sé que sube el precio. Abrimos sí o sí el 1 de diciembre, eso no se mueve. Iván"
+    },
+    {
+      "fecha": "2026-10-17",
+      "de": "pablo@reformasalbor.ejemplo.test",
+      "para": "ivan@cafenube.ejemplo.test",
+      "asunto": "RE: Local Nube - cambios",
+      "cuerpo": "Hola Iván:\n\nHecho. La barra en madera suma 2.000 €, así que el total queda en 32.000 € IVA incluido. Mantenemos la entrega el 25/11 para que tengáis una semana de margen antes de abrir.\n\nUn abrazo,\nPablo"
+    },
+    {
+      "fecha": "2026-10-21",
+      "de": "elena.paredes@tarsis.ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "Solicitud de oferta - reforma oficinas planta 3",
+      "cuerpo": "Estimado Sr. Albor:\n\nLe solicitamos oferta para la reforma de la planta 3 (420 m2). Necesitamos que la obra se haga fuera del horario de oficina. La decisión la toma el comité el 13/11.\n\nAtentamente,\nElena Paredes\nResponsable de Compras, Grupo Tarsis"
+    },
+    {
+      "fecha": "2026-10-28",
+      "de": "pablo@reformasalbor.ejemplo.test",
+      "para": "elena.paredes@tarsis.ejemplo.test",
+      "asunto": "Oferta reforma planta 3",
+      "cuerpo": "Buenos días, Elena:\n\nLe adjunto la oferta: 61.500 € + IVA, obra en horario de tarde y noche, 9 semanas. Incluye dirección de obra y gestión de licencia.\n\nQuedo a su disposición.\n\nUn saludo,\nPablo Albor"
+    },
+    {
+      "fecha": "2026-10-30",
+      "de": "jorge@dentalmar.ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "Visita clínica",
+      "cuerpo": "Hola Pablo, gracias por venir ayer. Nos interesa reformar la sala de espera y dos gabinetes. ¿Me mandas presupuesto antes del 10 de noviembre? Jorge"
+    },
+    {
+      "fecha": "2026-11-02",
+      "de": "sara@inmopuerto.ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "Decisión",
+      "cuerpo": "Hola Pablo, finalmente nos vamos con otra empresa que nos daba la obra en 3 semanas. Gracias por todo. Sara"
+    },
+    {
+      "fecha": "2026-11-03",
+      "de": "pablo@reformasalbor.ejemplo.test",
+      "para": "lucia@reformasalbor.ejemplo.test",
+      "asunto": "Lo de Inmobiliaria Puerto",
+      "cuerpo": "Lucía, perdimos Inmopuerto por plazo, no por precio. Decisión: a partir de ahora en todas las ofertas ponemos plazo cerrado por escrito y penalización si nos retrasamos. Pablo"
+    },
+    {
+      "fecha": "2026-11-04",
+      "de": "toni@reformasalbor.ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "Obra Marta - fontanería",
+      "cuerpo": "Pablo, en el baño de Marta hemos encontrado una bajante rota. Cambiarla son unos 650 € más. Necesito el ok de la clienta antes del jueves para no parar. Toni"
+    },
+    {
+      "fecha": "2026-11-05",
+      "de": "pablo@reformasalbor.ejemplo.test",
+      "para": "marta.rius@ejemplo.test",
+      "asunto": "Bajante del baño",
+      "cuerpo": "Hola Marta:\n\nToni ha encontrado una bajante rota en el baño. Cambiarla son 650 € más. Si me das el ok seguimos sin parar la obra.\n\nUn abrazo,\nPablo"
+    },
+    {
+      "fecha": "2026-11-06",
+      "de": "elena.paredes@tarsis.ejemplo.test",
+      "para": "pablo@reformasalbor.ejemplo.test",
+      "asunto": "RE: Oferta reforma planta 3",
+      "cuerpo": "Sr. Albor, el comité pide una referencia de una obra similar en oficinas. ¿Podría enviarla antes del 12/11? Atentamente, Elena Paredes"
+    }
+  ]
+}

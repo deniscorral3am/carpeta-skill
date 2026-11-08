@@ -1,0 +1,31 @@
+He creado la memoria de la carpeta en 4 archivos `CLAUDE.md`. No había ninguno, así que no se ha sobrescrito nada. Solo he leído y escrito en esta carpeta: no he enviado, borrado ni marcado nada en ningún sitio.
+
+**Fuentes:** no hay correo, calendario ni CRM conectados, así que he usado las exportaciones de `fuentes/` (correos, calendario y CRM) desde el 09/10/2026. He dejado fuera:
+- el correo de Azulejos Levante del 22/09/2026, porque es anterior y no está abierto;
+- el DNI, el IBAN y el móvil de Marta. Solo pone que sus datos de facturación están en su correo del 11/10/2026.
+
+## Archivos creados
+- `CLAUDE.md` (raíz, unas 75 líneas)
+- `Reforma-Colon-Marta/CLAUDE.md`
+- `Cafeteria-Nube/CLAUDE.md`
+- `Oficinas-Tarsis/CLAUDE.md`
+
+## 5 cosas que he aprendido, para que me las confirmes
+1. **Reparto del trabajo** (desde el 14/10/2026): Pablo lleva presupuestos y clientes, Lucía los pedidos y las cuadrillas, y Toni es el jefe de obra en lo de Marta y en Nube.
+2. **Regla nueva del 03/11/2026:** todas las ofertas llevan plazo cerrado por escrito y penalización si os retrasáis. Viene de perder Inmopuerto por plazo, no por precio. La oferta a Tarsis se envió antes de esta regla, así que no la cumple.
+3. **Cómo escribes:** tuteas con «Hola X:» y cierras con «Un abrazo, Pablo» a particulares y negocios pequeños. Con empresas formales como Tarsis tratas de usted, empiezas con «Buenos días, Elena:» y cierras con «Quedo a su disposición. Un saludo, Pablo Albor». Escribes mensajes cortos, siempre con importe e IVA explícitos.
+4. **Nube:** 32.000 € IVA incluido, de los que 2.000 € son la barra de madera clara. Entregas el 25/11/2026 para que tengan una semana de margen antes de abrir el 01/12/2026, fecha que no se mueve.
+5. **Marta prefiere el correo** y no el WhatsApp. Su obra (18.400 € IVA incluido, 6 semanas desde el 20/10/2026) terminaría hacia el 01/12/2026. Esa fecha la he calculado yo, así que va marcada como «¿confirmar?».
+
+## Vence en los próximos 7 días (09/11 al 15/11/2026)
+- **Ya puede haber vencido:** el ok de Marta para la bajante (+650 €). Toni lo pedía «antes del jueves», que entiendo como el 05/11/2026. No hay respuesta suya en los correos.
+- **Antes del 10/11:** enviar el presupuesto a Clínica Dental Mar (sala de espera y dos gabinetes).
+- **10/11, 08:30:** reunión de equipo, que se repite todos los lunes.
+- **Antes del 12/11:** enviar a Tarsis la referencia de una obra parecida en oficinas.
+- **12/11, 09:00:** visita de fin de fontanería en la obra de Marta.
+- **13/11, 12:00:** llamada de decisión del comité de Tarsis.
+
+## Carpeta que te propongo crear (no la he creado)
+- `Clinica-Dental-Mar/`: es un cliente activo y tiene el presupuesto pendiente. Inmobiliaria Puerto no la necesita porque está perdido.
+
+`fuentes/` y `facturas/` las he tratado como carpetas de sistema, no de proyecto. ¿Quieres que cree `Clinica-Dental-Mar/` con su `CLAUDE.md`?

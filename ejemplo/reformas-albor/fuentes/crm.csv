@@ -1,0 +1,6 @@
+empresa,contacto,rol,email,etapa,valor_eur,proximo_paso,fecha_proximo_paso,origen
+Particular (Marta Rius),Marta Rius,propietaria,marta.rius@ejemplo.test,Ganado - en obra,18400,Visita de fin de fontanería,12/11/2026,Recomendación
+Cafetería Nube,Iván Sol,dueño,ivan@cafenube.ejemplo.test,Ganado - en obra,32000,Entrega de mobiliario,20/11/2026,Instagram
+Grupo Tarsis,Elena Paredes,responsable de compras,elena.paredes@tarsis.ejemplo.test,Propuesta enviada,61500,Llamada de decisión,13/11/2026,Web
+Clínica Dental Mar,Jorge Mar,dueño,jorge@dentalmar.ejemplo.test,Visita hecha,0,Enviar presupuesto,10/11/2026,Recomendación
+Inmobiliaria Puerto,Sara Quintana,gerente,sara@inmopuerto.ejemplo.test,Perdido,9000,—,—,Web

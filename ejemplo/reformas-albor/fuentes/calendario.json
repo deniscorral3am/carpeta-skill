@@ -1,0 +1,15 @@
+{
+  "_aviso": "EJEMPLO FICTICIO. Eventos inventados para probar el prompt.",
+  "calendario": "pablo@reformasalbor.ejemplo.test",
+  "eventos": [
+    {"inicio": "2026-10-20T08:00", "titulo": "Inicio obra Marta Rius (Calle Colón)", "asistentes": ["toni@reformasalbor.ejemplo.test"]},
+    {"inicio": "2026-10-23T10:00", "titulo": "Replanteo Cafetería Nube", "asistentes": ["ivan@cafenube.ejemplo.test", "toni@reformasalbor.ejemplo.test"]},
+    {"inicio": "2026-10-29T17:00", "titulo": "Visita Clínica Dental Mar", "asistentes": ["jorge@dentalmar.ejemplo.test"]},
+    {"inicio": "2026-11-03T08:30", "titulo": "Reunión de equipo (lunes)", "asistentes": ["lucia@reformasalbor.ejemplo.test", "toni@reformasalbor.ejemplo.test"], "recurrente": "semanal, lunes 08:30"},
+    {"inicio": "2026-11-10T08:30", "titulo": "Reunión de equipo (lunes)", "asistentes": ["lucia@reformasalbor.ejemplo.test", "toni@reformasalbor.ejemplo.test"], "recurrente": "semanal, lunes 08:30"},
+    {"inicio": "2026-11-12T09:00", "titulo": "Visita fin de fontanería - obra Marta", "asistentes": ["marta.rius@ejemplo.test", "toni@reformasalbor.ejemplo.test"]},
+    {"inicio": "2026-11-13T12:00", "titulo": "Llamada decisión comité Grupo Tarsis", "asistentes": ["elena.paredes@tarsis.ejemplo.test"]},
+    {"inicio": "2026-11-20T09:00", "titulo": "Entrega mobiliario Cafetería Nube", "asistentes": ["ivan@cafenube.ejemplo.test", "lucia@reformasalbor.ejemplo.test"]},
+    {"inicio": "2026-11-25T10:00", "titulo": "Entrega final Cafetería Nube", "asistentes": ["ivan@cafenube.ejemplo.test"]}
+  ]
+}
